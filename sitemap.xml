@@ -32,8 +32,8 @@
     
     <url>
     
-      <loc>/publication/my-paper-name/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
@@ -41,8 +41,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
+      <loc>/publication/my-paper-name/</loc>
     </url>
     
   
