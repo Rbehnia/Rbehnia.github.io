@@ -21,5 +21,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A publication title, such as title of a paper</title>
+      <link>/publication/my-paper-name-copy/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/my-paper-name-copy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
