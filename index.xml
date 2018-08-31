@@ -11,9 +11,9 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My Paper Name</title>
+      <title>A publication title, such as title of a paper</title>
       <link>/publication/my-paper-name/</link>
-      <pubDate>Fri, 31 Aug 2018 11:39:17 -0700</pubDate>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>/publication/my-paper-name/</guid>
       <description></description>

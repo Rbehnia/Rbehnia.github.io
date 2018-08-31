@@ -5,15 +5,6 @@
     
     <url>
     
-      <loc>/publication/my-paper-name/</loc>
-      <lastmod>2018-08-31T11:39:17-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -41,9 +32,8 @@
     
     <url>
     
-      <loc>/publication_types/0/</loc>
-      <lastmod>2018-08-31T11:39:17-07:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/my-paper-name/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -61,7 +51,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-08-31T11:39:17-07:00</lastmod>
       <priority>0</priority>
     </url>
     
