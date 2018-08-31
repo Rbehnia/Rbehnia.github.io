@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Rouzbeh Behnia</title>
+    <title>Homes on Academic</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Rouzbeh Behnia</description>
+    <description>Recent content in Homes on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description> Rouzbeh received his Bachelors in Information Technology and Masters in Computer Science from Multimedia University, Malaysia in 2010 and 2013, respectively. He was a recipient of an FRGS grant during his time as a lecturer in Multimedia University and was awarded a Researcher Award in 2016. In 2016, Rouzbeh received an Outstanding Graduate Scholar award from the School of Electrical Engineering and Computer Science, Oregon State University.
-News  Our paper on lattice-based public key searchable encryption scheme is accepted to IEEE TDSC PDF Our paper on post-quantum signatures is accepted to CCS 2018 Our paper is accepted to CNS 2018 PDF Our PEKS paper is accepted to DBsec 2017 PDF  </description>
+      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ News  Our paper on lattice-based public key searchable encryption scheme is acce
     </item>
     
     <item>
-      <title>Publications</title>
+      <title>Recent Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
