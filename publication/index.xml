@@ -14,19 +14,37 @@
     
     <item>
       <title>Compact Energy and Delay-Aware Authentication</title>
-      <link>/publication/my-paper-name-copy/</link>
+      <link>/publication/cns2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/my-paper-name-copy/</guid>
+      <guid>/publication/cns2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Speed High-Security Public Key Encryption with Keyword Search</title>
-      <link>/publication/my-paper-name/</link>
+      <link>/publication/dbsec2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/my-paper-name/</guid>
+      <guid>/publication/dbsec2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptanalysis of an Identity-Based Convertible Undeniable Signature Scheme</title>
+      <link>/publication/mycrypt2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mycrypt2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The insecurity of a certificateless undeniable signature scheme</title>
+      <link>/publication/iwcmc2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iwcmc2016/</guid>
       <description></description>
     </item>
     
