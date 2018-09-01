@@ -50,10 +50,10 @@
     
     <item>
       <title>An Efficient Certificateless Undeniable Signature Scheme</title>
-      <link>/publication/computermathematics2014/</link>
+      <link>/publication/computermathematics2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/computermathematics2014/</guid>
+      <guid>/publication/computermathematics2015/</guid>
       <description></description>
     </item>
     
@@ -63,6 +63,15 @@
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/scn2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Provable Secure Pairing-Free Certificateless Identification Scheme</title>
+      <link>/publication/computermathematics2014-copy/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/computermathematics2014-copy/</guid>
       <description></description>
     </item>
     
