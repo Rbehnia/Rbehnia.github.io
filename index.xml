@@ -21,15 +21,6 @@
     
     <item>
       <title>MOSE: Practical Multi-User Oblivious Storage via Secure Enclaves</title>
-      <link>/publication/codaspy-copy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/codaspy-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MOSE: Practical Multi-User Oblivious Storage via Secure Enclaves</title>
       <link>/publication/codaspy2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
@@ -138,10 +129,19 @@
     
     <item>
       <title>A Provable Secure Pairing-Free Certificateless Identification Scheme</title>
-      <link>/publication/computermathematics2014-copy/</link>
+      <link>/publication/computermathematics2014/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/computermathematics2014-copy/</guid>
+      <guid>/publication/computermathematics2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient and Provably Secure Certificateless Identification Scheme</title>
+      <link>/publication/secrypt2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/secrypt2013/</guid>
       <description></description>
     </item>
     
