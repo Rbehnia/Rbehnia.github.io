@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/codaspy/</loc>
+      <lastmod>2020-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/cns2019/</loc>
       <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     </url>
@@ -151,14 +160,6 @@
     
       <loc>/categories/</loc>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/codaspy/</loc>
     </url>
     
   
