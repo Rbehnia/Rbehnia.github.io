@@ -14,10 +14,28 @@
     
     <item>
       <title>MOSE: Practical Multi-User Oblivious Storage via Secure Enclaves</title>
-      <link>/publication/codaspy/</link>
+      <link>/publication/isc2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/isc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOSE: Practical Multi-User Oblivious Storage via Secure Enclaves</title>
+      <link>/publication/codaspy-copy/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
       
-      <guid>/publication/codaspy/</guid>
+      <guid>/publication/codaspy-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOSE: Practical Multi-User Oblivious Storage via Secure Enclaves</title>
+      <link>/publication/codaspy2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/codaspy2020/</guid>
       <description></description>
     </item>
     
