@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Rouzbeh Behnia</title>
     <link>www.Rbehnia.github.io/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Rouzbeh Behnia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,8 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>www.Rbehnia.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>I&amp;rsquo;ve received my Bachelors and Masters from Multimedia University, Malaysia. My main research interests are cybersecurity in IoT, trustworthy blockchains and applied cryptography.
+I was a recipient of an FRGS grant during my time as a lecturer in Multimedia University and was awarded a Researcher Award. I also received an Outstanding Graduate Scholar Award from the School of Electrical Engineering and Computer Science, Oregon State University.
+News  May. 2021:Our paper on removing rejection conditions in practical lattice-based signatures is accepted to PQCrypto 2021  May.</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>www.Rbehnia.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
