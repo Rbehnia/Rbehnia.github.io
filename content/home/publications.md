@@ -12,7 +12,7 @@ subtitle = "For a complete list, visit my [Google Scholar](https://scholar.googl
 weight = 20
 
 # Number of publications to list.
-count = 20
+count = 22
 
 # List format.
 #   0 = Simple
