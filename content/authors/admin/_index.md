@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Privacy-Preserving Machine Learning
+  - Privacy-Preserving ML
   - Trustworthy AI
   - Post-Quantum Security 
 
