@@ -45,7 +45,8 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      css_style: "max-height: 200px; overflow-y: auto; padding: 10px; border: 1px solid #ccc;"
+      # columns: '1'
   - block: collection
     content:
       title: Recent Publications
