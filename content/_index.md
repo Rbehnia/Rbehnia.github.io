@@ -43,6 +43,16 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+   - block: markdown
+    id: teaching
+    content:
+      title: '📣 Teaching'
+      subtitle: ''
+      text: |-
+        
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
   - block: collection
     content:
       title: Recent Publications
