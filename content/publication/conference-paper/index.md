@@ -45,19 +45,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://arxiv.org/pdf/2408.10456'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
