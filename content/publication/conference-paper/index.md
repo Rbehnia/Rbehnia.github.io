@@ -8,16 +8,14 @@ authors:
   - admin
   - Robert Ford
   - Birrell, J., 
-  - Ebrahimi, 
-  -R., Behnia, R., 
-  - Pacheco, J.
+  - Ebrahimi, R., Behnia, R., & Pacheco, J.
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
