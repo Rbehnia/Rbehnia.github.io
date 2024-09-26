@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text:
-        url: 
+      #button:
+        #text:
+        #url: 
     design:
       css_class: dark
       background:
