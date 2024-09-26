@@ -26,7 +26,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: 
 publication_short: Accepted to NeurIPS 2024 
 
 abstract: 
