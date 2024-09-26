@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: news
     content:
       title: '📣 NEWS'
       subtitle: ''
@@ -53,7 +54,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: news
+    id: newss
     content:
       title: Recent News
       subtitle: ''
