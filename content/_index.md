@@ -93,7 +93,7 @@ sections:
         * <span style="color:red; font-size:16px;"> **Aug. 2024:**</span> <span style="font-size:16px;">Our paper on secure aggregation for federated deep learning was accepted to **ACSAC 2024**</span>
         * <span style="color:red; font-size:16px;"> **Apr. 2024:**</span> <span style="font-size:16px;">Our paper on multi-user searchable encryption was accepted to **USENIX 2024**</span>
     design:
-      css_style: "max-height: 400px; overflow-y: scroll; padding: 10px; border: none; width: 95%; margin: 0 auto;"
+      css_style: "max-height: 400px; overflow-y: scroll; padding: 2px; border: none; width: 95%; margin: 0 auto;"
       view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
