@@ -58,7 +58,7 @@ sections:
     content:
       title: Teaching
       text: "
-    
+        **Fall 2024**
         
         - ISM 4263 Cloud Solution Architecture
 
