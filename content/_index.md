@@ -62,8 +62,6 @@ sections:
         
         - ISM 4263 Cloud Solution Architecture
         - ISM 6930 Cloud Solution Architecture
-      filters:
-        exclude_featured: false
   # - block: collection
   #   id: newss
   #   content:
