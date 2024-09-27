@@ -44,6 +44,7 @@ sections:
       css_style: "max-height: 400px; overflow-y: scroll; padding: 10px; border: none; width: 70%; margin: 0 auto;"
      #columns: '1'
   - block: collection
+    id : papers
     content:
       title: Recent Publications
       text: "For a complete list of publications, please visit my <a href='https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao' target='_blank'>Google Scholar</a>"
