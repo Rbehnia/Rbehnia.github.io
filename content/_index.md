@@ -46,7 +46,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "For a complete list of publication please visit my [Google Scholar](https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao)"
+      text: "For a complete list of publication please visit my [Google Scholar](https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao) my <a href='https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao' target='_blank'>Google Scholar</a>"
       filters:
         folders:
           - publication
