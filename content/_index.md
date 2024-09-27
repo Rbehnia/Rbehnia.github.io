@@ -58,9 +58,10 @@ sections:
     content:
       title: Teaching
       text: "
-        **Courses I Teach:**
+    
         
         - ISM 4263 Cloud Solution Architecture
+
         - ISM 6930 Cloud Solution Architecture"
   # - block: collection
   #   id: newss
