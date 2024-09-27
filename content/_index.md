@@ -54,6 +54,7 @@ sections:
     design:
       view: citation
   - block: collection
+    id: teaching
     content:
       title: Teaching
       text: |-
@@ -63,8 +64,6 @@ sections:
         - ISM 6930 Cloud Solution Architecture
       filters:
         exclude_featured: false
-    design:
-      view: citation
   # - block: collection
   #   id: newss
   #   content:
