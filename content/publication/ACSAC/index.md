@@ -9,7 +9,7 @@ authors:
   - Mohammadreza Ebrahimi 
   - Sherman S. M. Chow 
   - Balaji Padmanabhan 
-  -Thang Hoang
+  - Thang Hoang
 
 # Author notes (optional)
 author_notes:
