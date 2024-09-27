@@ -122,4 +122,4 @@ interests:
 
 I am an assistant professor at the School of Information Systems and Management (SISM) at the University of South Florida.  I received my Ph.D. in Computer Science from the University of South Florida.
 
-My research focuses on different aspects of cybersecurity and applied cryptography. I am particularly interested in addressing privacy challenges in AI systems, developing post-quantum cryptographic solutions, and enhancing authentication protocols to ensure computation and communication integrity
+My research focuses on different aspects of cybersecurity and applied cryptography. I am particularly interested in addressing privacy challenges in AI systems, developing post-quantum cryptographic solutions, and enhancing authentication protocols to ensure computation and communication integrity.
