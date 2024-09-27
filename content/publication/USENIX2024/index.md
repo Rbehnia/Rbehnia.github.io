@@ -25,8 +25,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 33rd USENIX Security Symposium
-publication_short:  (USENIX Security 24)
+publication: 
+publication_short: 33rd USENIX Security Symposium (USENIX Security 24)
 
 abstract: 
 
