@@ -61,9 +61,7 @@ sections:
       text: "
         **Fall 2024**
         
-        - ISM 4263 Cloud Solution Architecture
-
-        - ISM 6930 Cloud Solution Architecture"
+        - ISM 4263/6930 Cloud Solution Architecture"
   # - block: collection
   #   id: newss
   #   content:
