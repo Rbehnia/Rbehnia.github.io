@@ -94,7 +94,7 @@ sections:
         * <span style="color:red; font-size:16px;"> **Apr. 2024:**</span> <span style="font-size:16px;">Our paper on multi-user searchable encryption was accepted to **USENIX 2024**</span>
     design:
       #css_style: "max-height: 400px; overflow-y: scroll; padding: 10px; border: none; width: 70%; margin: 0 auto;"
-      columns: '1'
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
