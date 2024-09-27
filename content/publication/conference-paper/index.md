@@ -4,11 +4,10 @@ title: ' Differentially Private Stochastic Gradient Descent with Fixed-Size Mini
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Birrell, J.
-  - Ebrahimi, R.
+  - Jeremiah Birrell
+  - Reza Ebrahimi
   - admin
-  - Pacheco, J.
-
+  - Jason Pacheco
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
