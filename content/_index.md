@@ -82,6 +82,19 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+  - block: markdown
+    id: pubs
+    content:
+      title: 'Publications'
+      subtitle: ''
+      text: |-
+        * <span style="color:red; font-size:16px;"> **Sep. 2024:**</span> <span style="font-size:16px;">Invited to serve on an **NSF Panel**</span>
+        * <span style="color:red; font-size:16px;"> **Sep. 2024:**</span> <span style="font-size:16px;">Our paper on fixed-size mini batches for Rényi differential privacy was accepted to **NeurIPS 2024**</span>
+        * <span style="color:red; font-size:16px;"> **Aug. 2024:**</span> <span style="font-size:16px;">Our paper on secure aggregation for federated deep learning was accepted to **ACSAC 2024**</span>
+        * <span style="color:red; font-size:16px;"> **Apr. 2024:**</span> <span style="font-size:16px;">Our paper on multi-user searchable encryption was accepted to **USENIX 2024**</span>
+    design:
+      #css_style: "max-height: 400px; overflow-y: scroll; padding: 10px; border: none; width: 70%; margin: 0 auto;"
+      columns: '1'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
