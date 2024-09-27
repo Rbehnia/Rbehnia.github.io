@@ -53,15 +53,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      text: |-
-        **Courses I Teach:**
+  # - block: collection
+  #   id: teaching
+  #   content:
+  #     title: Teaching
+  #     text: |-
+  #       **Courses I Teach:**
         
-        - ISM 4263 Cloud Solution Architecture
-        - ISM 6930 Cloud Solution Architecture
+  #       - ISM 4263 Cloud Solution Architecture
+  #       - ISM 6930 Cloud Solution Architecture
   # - block: collection
   #   id: newss
   #   content:
