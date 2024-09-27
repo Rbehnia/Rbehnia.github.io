@@ -53,6 +53,18 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Teaching
+      text: |-
+        **Courses I Teach:**
+        
+        - ISM 4263 Cloud Solution Architecture
+        - ISM 6930 Cloud Solution Architecture
+      filters:
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
   #   id: newss
   #   content:
