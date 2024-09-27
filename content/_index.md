@@ -46,13 +46,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "For a complete list of publication please visit my [Google Scholar](https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao)
-      <a class="scholar-button" href="https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao" 
-   data-icon="google-scholar" data-size="large" target="_blank" 
-   aria-label="Visit my Google Scholar Profile">
-   Visit my Google Scholar Profile
-</a>
-"
+      text: "For a complete list of publication please visit my [Google Scholar](https://scholar.google.com/citations?user=1DlmPcQAAAAJ&hl=en&oi=ao)"
       filters:
         folders:
           - publication
