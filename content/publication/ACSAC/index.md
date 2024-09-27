@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 publication: 
 publication_short: Accepted to ACSAC 2024
 
-abstract: 
+abstract: "Secure aggregation protocols ensure the privacy of users' data in the federated learning settings by preventing the disclosure of users' local gradients. Despite their merits, existing aggregation protocols often incur high communication and computation overheads on the participants and might not be optimized to handle the large update vectors for machine learning models efficiently. This paper presents e-SeaFL, an efficient, verifiable secure aggregation protocol taking one communication round in aggregation. e-SeaFL allows the aggregation server to generate proof of honest aggregation for the participants. Our core idea is to employ a set of assisting nodes to help the aggregation server, under similar trust assumptions existing works placed upon the participating users. For verifiability, e-SeaFL uses authenticated homomorphic vector commitments. Our experiments show that the user enjoys five orders of magnitude higher efficiency than the state of the art (PPML 2022) for a gradient vector of a high dimension up to 100,000."
 
 # Summary. An optional shortened abstract.
 summary: 
