@@ -1,17 +1,20 @@
 ---
-title: 'MUSES: Efficient Multi-User Searchable Encrypted Database'
+title: 'Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tung Le  
-  - admin
-  - Jorge Guajardo
-  - Thang Hoang
+  - admin 
+  - Arman Riasi
+  - Mohammadreza Ebrahimi 
+  - Sherman S. M. Chow 
+  - Balaji Padmanabhan 
+  -Thang Hoang
+
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 
 date: '2024-01-01T00:00:00Z'
 doi: ''
@@ -26,7 +29,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 
-publication_short: 33rd USENIX Security Symposium (USENIX Security 24)
+publication_short: Accepted to ACSAC 2024
 
 abstract: 
 
@@ -34,7 +37,7 @@ abstract:
 summary: 
 
 tags:
-  - SSE
+  - eseaFL
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eprint.iacr.org/2023/720.pdf'
+url_pdf: 'https://arxiv.org/pdf/2304.03841'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
