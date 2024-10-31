@@ -47,9 +47,9 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Privacy-Preserving ML
-  - Trustworthy AI
-  - Post-Quantum Security 
+  - Secure and Trustworthy AI
+  - Security with AI  
+  - Applied Crytography and Post-quantum security
 
 #education:
  # - area: PhD Artificial Intelligence
