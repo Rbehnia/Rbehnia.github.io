@@ -49,7 +49,7 @@ profiles:
 interests:
   - Secure and Trustworthy AI
   - Security with AI  
-  - Applied Crytography and Post-quantum security
+  - Applied Crytography and Post-Quantum Security
 
 #education:
  # - area: PhD Artificial Intelligence
