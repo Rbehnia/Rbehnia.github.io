@@ -36,6 +36,7 @@ sections:
       title: '📣 NEWS'
       subtitle: ''
       text: |-
+       * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL won the BEST PAPER AWARD in **IEEE S&P Workshops**</span>
        * <span style="color:red; font-size:16px;"> **Mar. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL was accepted to **IEEE S&P Workshops**</span>
         * <span style="color:red; font-size:16px;"> **Oct. 2024:**</span> <span style="font-size:16px;">Our attack paper on MicroSecAgg (PoPETS 2024) was accepted to **ICDM MLC Workshop**</span>
         * <span style="color:red; font-size:16px;"> **Sep. 2024:**</span> <span style="font-size:16px;">Our paper on fixed-size mini batches for Rényi differential privacy was accepted to **NeurIPS 2024**</span>
