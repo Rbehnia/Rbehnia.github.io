@@ -36,6 +36,7 @@ sections:
       title: '📣 NEWS'
       subtitle: ''
       text: |-
+         * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on <a href="https://arxiv.org/abs/2505.07148"> dropout-resilient secure aggregation for federated learning in 5G networks </a> was accpeted in  **ACM WiSec 2025**</span>
        * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL won the BEST PAPER AWARD in **IEEE S&P Workshops**</span>
        * <span style="color:red; font-size:16px;"> **Mar. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL was accepted to **IEEE S&P Workshops**</span>
         * <span style="color:red; font-size:16px;"> **Oct. 2024:**</span> <span style="font-size:16px;">Our attack paper on MicroSecAgg (PoPETS 2024) was accepted to **ICDM MLC Workshop**</span>
