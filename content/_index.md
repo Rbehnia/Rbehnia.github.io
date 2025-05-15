@@ -36,11 +36,12 @@ sections:
       title: '📣 NEWS'
       subtitle: ''
       text: |-
-        * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on <a href='https://arxiv.org/abs/2505.07148' target='_blank'> dropout-resilient secure aggregation for federated learning in 5G networks </a> was accpeted in  **ACM WiSec 2025**</span>
+        * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on <a href='https://arxiv.org/pdf/2505.07148' target='_blank'> dropout-resilient secure aggregation for federated learning in 5G networks </a> was accpeted in  **ACM WiSec 2025**</span>
+        * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on <a href='https://arxiv.org/pdf/2505.05751' target='_blank'> post-quantum private federated learning </a> was accpeted in  **IEEE TDSC**</span>
         * <span style="color:red; font-size:16px;"> **May. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL won the BEST PAPER AWARD in **IEEE S&P Workshops**</span>
-        * <span style="color:red; font-size:16px;"> **Mar. 2025:**</span> <span style="font-size:16px;">Our paper on interactive framework for privacy-preserving FL was accepted to **IEEE S&P Workshops**</span>
-        * <span style="color:red; font-size:16px;"> **Oct. 2024:**</span> <span style="font-size:16px;">Our attack paper on MicroSecAgg (PoPETS 2024) was accepted to **ICDM MLC Workshop**</span>
-        * <span style="color:red; font-size:16px;"> **Sep. 2024:**</span> <span style="font-size:16px;">Our paper on fixed-size mini batches for Rényi differential privacy was accepted to **NeurIPS 2024**</span>
+        * <span style="color:red; font-size:16px;"> **Mar. 2025:**</span> <span style="font-size:16px;">Our paper on <a href='https://arxiv.org/pdf/2502.08008' target='_blank'> interactive framework for privacy-preserving FL </a> was accepted to **IEEE S&P Workshops**</span>
+        * <span style="color:red; font-size:16px;"> **Oct. 2024:**</span> <span style="font-size:16px;">Our attack paper on <a href='https://arxiv.org/pdf/2410.09676' target='_blank'> MicroSecAgg (PoPETS 2024) </a> was accepted to **ICDM MLC Workshop**</span>
+        * <span style="color:red; font-size:16px;"> **Sep. 2024:**</span> <span style="font-size:16px;">Our paper on <a href='https://arxiv.org/pdf/2408.10456' target='_blank'> fixed-size mini batches for Rényi differential privacy </a> was accepted to **NeurIPS 2024**</span>
         * <span style="color:red; font-size:16px;"> **Aug. 2024:**</span> <span style="font-size:16px;">Our paper on secure aggregation for federated deep learning was accepted to **ACSAC 2024**</span>
         * <span style="color:red; font-size:16px;"> **Apr. 2024:**</span> <span style="font-size:16px;">Our paper on multi-user searchable encryption was accepted to **USENIX 2024**</span>
     design:
